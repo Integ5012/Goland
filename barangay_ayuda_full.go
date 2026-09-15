@@ -15,7 +15,7 @@ import (
 
 /* comment
    ==================================
-   GROUP Ewan : BARANGAY AYUDA DISTRIBUTION SYSTEM
+   GROUP 4 : BARANGAY AYUDA DISTRIBUTION SYSTEM
    Interactive version -- the user types residents, then claims are processed.
    ==================================
 */
